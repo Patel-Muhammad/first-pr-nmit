@@ -39,6 +39,15 @@ Before the workshop, please make sure you have:
 
 ```
 
+## 🛠️ Illustration
+### What is "FORK" and "PR"
+<img width="600" alt="Screenshot 2025-06-13 at 6 08 15 PM" src="https://github.com/user-attachments/assets/220b19c4-f189-4b13-89e4-e32ea566cfaf" />
+
+### Git Cycle
+<img width="600" alt="Screenshot 2025-06-13 at 6 08 29 PM" src="https://github.com/user-attachments/assets/6073c8e0-a126-4a50-958f-f0f031536e06" />
+
+
+
 ## 🛠️ Step-by-Step Guide
 
 ### 1. Fork this Repository 🍴
@@ -115,6 +124,7 @@ This sends your new branch with the committed changes to your fork on GitHub.
 4. Click **Create pull request**
 
 ![image](https://github.com/user-attachments/assets/09b63255-942d-49df-aea0-3906d207ad12)
+
 
 
 
